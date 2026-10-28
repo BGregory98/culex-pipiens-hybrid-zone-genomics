@@ -1,0 +1,10 @@
+arm,null_set,n_null,focal_r,p_r,focal_pr,p_pr
+ancestry (alpha_QUI),"XtX + panel-size matched, 2.5 Mb",291,0.374,0.1918,0.456,0.0274
+copy number (CYP6 cluster),"contiguous 6-gene runs, genome-wide",13553,0.471,0.0218,0.559,0.006
+"  same, vs most-variable 1% of runs",runs with variance >= 0.0044 (no run reaches 0.0215),136,0.471,0.0365,0.559,0.0073
+  CQUJHB009005,all genes outside CpL1a,13665,0.316,0.1305,0.112,0.6142
+  CQUJHB008986,all genes outside CpL1a,13665,0.568,0.0048,0.623,0.0028
+  CQUJHB009148,all genes outside CpL1a,13665,0.531,0.0091,0.66,0.0011
+  CQUJHB017007,all genes outside CpL1a,13665,0.499,0.0157,0.449,0.0357
+  CQUJHB001163,all genes outside CpL1a,13665,0.419,0.0456,0.421,0.0507
+  CQUJHB007871,all genes outside CpL1a,13665,0.261,0.2122,0.291,0.192

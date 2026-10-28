@@ -1,0 +1,16 @@
+# CYP6 protein phylogeny (08_phylogeny/run_p450_phylo.sh). Versions from
+# `conda env export -n p450phylo` on the cluster (2026-10-02), matching the run
+# logs (MAFFT "Version 7.526"; "IQ-TREE version 3.1.1"). A separate env,
+# mafft_env, holds MAFFT 7.525; the phylogeny logs show 7.526. The consensus
+# step (08_phylogeny/consensus_sequence.sh) uses the samtools, bcftools and
+# htslib modules (envs/hts_modules.yml).
+name: culex-phylogeny
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - mafft=7.526
+  - iqtree=3.1.1
+  - trimal=1.5.1
+  - seqkit=2.13.0
+  - gffread=0.12.7

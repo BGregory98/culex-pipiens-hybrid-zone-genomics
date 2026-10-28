@@ -1,0 +1,19 @@
+# Cluster environment modules loaded by the scripts (`module load samtools`,
+# `bcftools`, `htslib`, `bedtools`). Not a conda environment on the cluster;
+# this file pins the same versions for a rerun.
+#   samtools 1.16 / htslib 1.16: the default `module load samtools` ("Loading
+#     samtools/1.16, requirement htslib/1.16" in the DELLY job log); used by
+#     the v4 pileup, the proper-pair filter, DELLY input checks and the
+#     insert-size check.
+#   bcftools 1.13: "bcftools_viewVersion=1.13+htslib-1.16" in the header of
+#     the v4 VCF (no-missing and biallelic filters).
+#   bedtools: 06_depth/glmm/03_intersect_cds.sh (`module load bedtools`).
+name: culex-hts
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - samtools=1.16.1   # BAM @PG of the proper-pair filter (view -f 2 -q 10)
+  - htslib=1.16
+  - bcftools=1.13
+  - bedtools=2.30     # unconfirmed (default bedtools module version)

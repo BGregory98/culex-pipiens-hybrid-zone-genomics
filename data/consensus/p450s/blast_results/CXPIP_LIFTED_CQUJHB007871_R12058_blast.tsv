@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	TR	B0WFB6	Cytochrome P450 OS=Culex quinquefasciatus OX=7176 GN=6037490 PE=3 SV=1	Culex quinquefasciatus	506	2532	94.9	96.8	0.0
+2	TR	A0ABD1D225	Cytochrome P450 OS=Culex pipiens pipiens OX=38569 GN=pipiens_013188 PE=3 SV=1	Culex pipiens pipiens	863	1999	93.4	94.4	0.0
+3	TR	A0ABM1YMB1	Cytochrome P450 OS=Aedes albopictus OX=7160 PE=3 SV=1	Aedes albopictus	507	1571	56.7	75.1	0.0
+4	TR	A0ABM1ZAX6	Cytochrome P450 OS=Aedes albopictus OX=7160 PE=3 SV=1	Aedes albopictus	1076	1571	56.7	75.1	0.0
+5	TR	Q16F58	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5565578 PE=3 SV=1	Aedes aegypti	507	1565	56.7	74.7	0.0
+6	TR	B0WFB7	Cytochrome P450 CYP6BB1v2 OS=Culex quinquefasciatus OX=7176 GN=6037491 PE=3 SV=1	Culex quinquefasciatus	505	1518	54.7	73.9	0.0
+7	TR	A0A340TB86	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	508	1424	50.5	70.9	0.0
+8	TR	A0A182G042	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	511	1421	50.5	70.1	0.0
+9	TR	A0A182J4W3	Uncharacterized protein OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	509	1421	51.2	69.8	0.0
+10	TR	A0A6E8VFG4	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	506	1418	51.7	70.5	0.0
+11	TR	A0A182XUI8	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	506	1418	51.7	70.5	0.0
+12	TR	Q7QCY8	AGAP002867-PA OS=Anopheles gambiae OX=7165 GN=CYP6P4 PE=3 SV=1	Anopheles gambiae	506	1418	51.7	70.5	0.0
+13	TR	A0A182IIK7	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	506	1417	51.5	70.5	0.0
+14	TR	A0A182QTD5	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	509	1415	51.5	70.1	0.0
+15	TR	A0A182V9K6	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	506	1414	51.5	70.5	0.0
+16	TR	A0A340TBE8	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	509	1412	51.4	70.0	0.0
+17	TR	W5J5T5	Cytochrome P450 OS=Anopheles darlingi OX=43151 GN=AND_010280 PE=3 SV=1	Anopheles darlingi	511	1412	50.1	69.9	0.0
+18	TR	A0A182PYX0	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	508	1406	50.1	69.4	0.0
+19	TR	B0WFB9	Cytochrome P450 11A1, mitochondrial OS=Culex quinquefasciatus OX=7176 GN=6037493 PE=3 SV=1	Culex quinquefasciatus	513	1406	51.7	68.4	0.0
+20	TR	A0A182PYV4	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	507	1404	51.8	70.0	0.0
+21	TR	A0A182MLX8	Uncharacterized protein OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	508	1401	49.9	70.0	0.0
+22	TR	A0A182PYW9	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	509	1388	49.7	68.8	0.0
+23	TR	A0A340TBD8	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	510	1388	51.4	69.5	0.0
+24	TR	A0A182G040	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	509	1387	49.8	68.9	0.0
+25	TR	A0A182MMT4	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	506	1386	50.9	69.7	0.0
+26	TR	A0A6E8V2W3	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	509	1385	49.4	68.7	0.0
+27	TR	A0A182XUJ0	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	509	1385	49.4	68.7	0.0
+28	TR	A0A182V0K6	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	509	1385	49.6	68.5	0.0
+29	TR	A0A182IIK5	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	509	1385	49.4	68.7	0.0
+30	TR	Q7QCY6	AGAP002865-PA OS=Anopheles gambiae OX=7165 GN=1273103 PE=3 SV=1	Anopheles gambiae	509	1385	49.4	68.7	0.0
+31	TR	W5J458	Cytochrome P450 11A1, mitochondrial OS=Anopheles darlingi OX=43151 GN=AND_010278 PE=3 SV=1	Anopheles darlingi	512	1380	50.4	68.2	0.0
+32	TR	A0A182G041	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	512	1378	50.2	67.5	0.0
+33	TR	A0A182Q3P6	Uncharacterized protein OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	509	1376	49.6	68.1	0.0
+34	TR	A0A6E8VBM1	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	509	1373	48.7	69.4	0.0
+35	TR	A0A182XUI9	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	509	1373	48.9	69.4	0.0
+36	TR	A0AAG5CWZ4	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	527	1372	50.8	68.0	0.0
+37	TR	A0A182IIK6	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	509	1372	49.1	69.4	0.0
+38	TR	A0A084VDQ7	AGAP002867-PA-like protein OS=Anopheles sinensis OX=74873 GN=ZHAS_00003136 PE=3 SV=1	Anopheles sinensis	509	1370	49.9	68.6	0.0
+39	TR	Q7QCY7	AGAP002866-PA OS=Anopheles gambiae OX=7165 GN=AgaP_AGAP002866 PE=3 SV=4	Anopheles gambiae	509	1369	48.9	69.4	0.0
+40	TR	W5J1N8	Cytochrome P450 11A1, mitochondrial OS=Anopheles darlingi OX=43151 GN=AND_010276 PE=3 SV=1	Anopheles darlingi	509	1369	49.0	68.5	0.0
+41	TR	A0A182V7C8	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	509	1365	48.7	69.2	0.0
+42	TR	A0A182THA1	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	509	1361	48.5	69.0	0.0
+43	TR	A0ABM1Z091	Cytochrome P450 OS=Aedes albopictus OX=7160 PE=3 SV=1	Aedes albopictus	1013	1394	52.0	68.2	4.8e-180
+44	TR	A0AAG5CVY9	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	510	1340	48.9	67.1	1.2e-178
+45	TR	A0A084VDQ9	Cytochrome P450 CYP6P7 OS=Anopheles sinensis OX=74873 GN=ZHAS_00003139 PE=3 SV=1	Anopheles sinensis	510	1326	48.7	66.7	1.6e-176
+46	TR	A0AAG5CW02	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	511	1326	48.6	66.0	1.7e-176
+47	TR	A0A182PYV2	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	512	1322	47.5	66.5	7.1e-176
+48	TR	A0A084VDQ6	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00003135 PE=3 SV=1	Anopheles sinensis	893	1353	49.5	67.5	2.4e-175
+49	TR	A0A182QU57	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	682	1329	48.5	67.4	1.7e-174
+50	TR	A0A340TBH6	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	509	1312	48.6	64.7	2.1e-174
+51	TR	A0A182MWJ1	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	509	1311	48.6	64.5	3e-174
+52	TR	A0A6I8TGG4	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5576391 PE=3 SV=1	Aedes aegypti	1013	1353	50.7	68.2	6.5e-174
+53	TR	A0ABD1CZH9	Cytochrome P450 OS=Culex pipiens pipiens OX=38569 GN=pipiens_013187 PE=3 SV=1	Culex pipiens pipiens	1523	1386	52.4	68.5	9.1e-174
+54	TR	A0A182G044	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	509	1307	48.2	65.7	1.2e-173
+55	TR	A0A182XUI7	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	509	1300	50.1	66.8	1.4e-172
+56	TR	A0A340TB92	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	510	1299	48.4	67.5	2e-172
+57	TR	W5J2W2	Cytochrome P450 11A1, mitochondrial OS=Anopheles darlingi OX=43151 GN=AND_010279 PE=3 SV=1	Anopheles darlingi	509	1295	47.8	65.6	7.9e-172
+58	TR	A0A182K3B0	Uncharacterized protein OS=Anopheles christyi OX=43041 PE=3 SV=1	Anopheles christyi	2368	1399	52.5	71.3	4.4e-171
+59	TR	A0A182IIK8	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	509	1285	49.3	66.4	2.6e-170
+60	TR	A0A182SE56	Cytochrome P450 OS=Anopheles maculatus OX=74869 PE=3 SV=1	Anopheles maculatus	509	1282	47.5	65.1	7.3e-170
+61	TR	W5J5J6	Cytochrome P450 OS=Anopheles darlingi OX=43151 GN=AND_010277 PE=3 SV=1	Anopheles darlingi	517	1282	49.0	65.0	9.6e-170
+62	TR	A0A6E8VCB0	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	509	1281	49.3	66.4	1e-169
+63	TR	A0A340TBH3	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	509	1281	48.5	66.6	1e-169
+64	TR	Q9BID1	AGAP002868-PA OS=Anopheles gambiae OX=7165 GN=CYP6P1 PE=2 SV=1	Anopheles gambiae	509	1279	49.1	66.2	2.1e-169
+65	TR	A0A182N735	Carboxylesterase type B domain-containing protein OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	4000	1392	53.7	71.4	2.5e-169
+66	TR	A0A182XW67	Carboxylesterase type B domain-containing protein OS=Anopheles stephensi OX=30069 PE=3 SV=1	Anopheles stephensi	4788	1385	49.5	68.5	2.2e-168
+67	TR	A0A6E8V5P7	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	507	1271	47.0	65.0	3.1e-168
+68	TR	A0A182XUI5	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	507	1271	47.2	65.0	3.1e-168
+69	TR	Q8T629	AGAP002869-PA OS=Anopheles gambiae OX=7165 GN=cyp6p2 PE=2 SV=1	Anopheles gambiae	507	1271	47.0	65.0	3.1e-168
+70	TR	A0AAG5CVM3	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	525	1268	47.6	63.3	1.6e-167
+71	TR	A0A182SEV1	Cytochrome P450 OS=Anopheles maculatus OX=74869 PE=3 SV=1	Anopheles maculatus	436	1259	53.2	71.3	1.8e-167
+72	TR	A0A182U375	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	507	1265	46.9	64.8	2.5e-167
+73	TR	A0A182IIK9	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	507	1265	47.0	64.8	2.5e-167
+74	TR	A0A182VIN8	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	507	1260	47.0	64.4	1.5e-166
+75	TR	A0A182MT54	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	508	1260	48.0	65.7	1.5e-166
+76	TR	A0A182G043	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	517	1256	48.9	63.9	8.2e-166
+77	TR	A0A084VDQ8	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00003137 PE=3 SV=1	Anopheles sinensis	525	1256	47.4	63.7	1.1e-165
+78	TR	A0A182PYV3	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	510	1252	48.7	65.6	2.6e-165
+79	TR	A0A182U1L7	Uncharacterized protein OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	859	1271	49.3	65.9	1.8e-163
+80	TR	B0WFC0	Cytochrome P450 OS=Culex quinquefasciatus OX=7176 GN=6037494 PE=3 SV=1	Culex quinquefasciatus	504	1154	45.8	63.5	1.4e-150
+81	TR	W5JNE8	Cytochrome P450 93A3 OS=Anopheles darlingi OX=43151 GN=AND_002560 PE=3 SV=1	Anopheles darlingi	496	1135	44.4	64.9	8e-148
+82	TR	W8BQI3	(Mediterranean fruit fly) hypothetical protein OS=Ceratitis capitata OX=7213 GN=C6A22 PE=2 SV=1	Ceratitis capitata	507	1114	45.6	64.9	1.7e-144
+83	TR	A0A1S4GXM1	Uncharacterized protein OS=Anopheles gambiae OX=7165 PE=3 SV=1	Anopheles gambiae	500	1101	43.4	64.2	1.2e-142
+84	TR	A0A084VFX6	AGAP008212-PA-like protein OS=Anopheles sinensis OX=74873 GN=ZHAS_00004047 PE=3 SV=1	Anopheles sinensis	499	1100	43.1	62.4	1.7e-142
+85	TR	A0A182G0F8	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	495	1097	44.4	63.9	4.2e-142
+86	TR	A0A182G0F6	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	499	1097	43.1	63.7	4.8e-142
+87	TR	A0ABM1ZDW7	Cytochrome P450 OS=Aedes albopictus OX=7160 PE=3 SV=1	Aedes albopictus	498	1096	40.4	65.0	6.6e-142
+88	TR	A0ABM1XT38	Cytochrome P450 OS=Aedes albopictus OX=7160 PE=3 SV=1	Aedes albopictus	499	1095	43.4	63.6	9.6e-142
+89	TR	A0A6E8VWB4	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	500	1095	43.2	64.0	9.9e-142
+90	TR	A0ABD1DEF5	Cytochrome P450 OS=Culex pipiens pipiens OX=38569 GN=pipiens_009263 PE=3 SV=1	Culex pipiens pipiens	500	1095	42.1	62.9	9.9e-142
+91	TR	A0A182XUQ3	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	500	1095	43.2	64.0	9.9e-142
+92	TR	A0A182NFD9	Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	498	1094	42.4	63.6	1.3e-141
+93	TR	A0A182V765	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	500	1094	43.5	64.1	1.4e-141
+94	TR	A0A2J7QT98	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_5 PE=3 SV=1	Cryptotermes secundus	547	1098	43.2	60.8	1.6e-141
+95	TR	B0XCA8	Cytochrome P450 4A6 OS=Culex quinquefasciatus OX=7176 GN=6050718 PE=3 SV=1	Culex quinquefasciatus	506	1094	42.3	62.7	1.7e-141
+96	TR	A0A2J7QT71	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_5 PE=3 SV=1	Cryptotermes secundus	531	1095	44.1	62.4	2.7e-141
+97	TR	A0A182II53	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	500	1092	43.0	64.0	2.8e-141
+98	TR	A0A182MMZ3	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	500	1090	42.4	62.7	5.6e-141
+99	TR	A0A1S4FLE3	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571540 PE=3 SV=1	Aedes aegypti	499	1089	43.4	63.0	7.7e-141
+100	TR	A0A182XUQ5	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	501	1089	43.9	64.1	8.2e-141
+101	TR	B4MQ17	GK21509 OS=Drosophila willistoni OX=7260 GN=Dwil\GK21509 PE=3 SV=1	Drosophila willistoni	509	1089	43.3	62.5	1.1e-140
+102	TR	A0A182XUQ4	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	499	1088	43.3	62.3	1.1e-140
+103	TR	A0A9J6BBR0	Cytochrome P450 OS=Polypedilum vanderplanki OX=319348 GN=PVAND_015291 PE=3 SV=1	Polypedilum vanderplanki	464	1084	45.1	65.0	1.4e-140
+104	TR	A0A2J7R498	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_17 PE=3 SV=1	Cryptotermes secundus	525	1089	43.6	61.8	1.8e-140
+105	TR	A0A182II55	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	499	1086	42.9	62.3	2.2e-140
+106	TR	Q7Q449	AGAP008212-PA OS=Anopheles gambiae OX=7165 GN=5668319 PE=3 SV=2	Anopheles gambiae	499	1086	42.9	62.3	2.2e-140
+107	TR	A0A9P0J8N8	Cytochrome P450 OS=Chironomus riparius OX=315576 GN=CHIRRI_LOCUS9185 PE=3 SV=1	Chironomus riparius	495	1084	40.5	63.9	3.8e-140
+108	TR	A0A182U2R2	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	499	1084	42.9	62.3	4.4e-140
+109	TR	A0A2J7QT70	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_5 PE=3 SV=1	Cryptotermes secundus	531	1086	43.1	61.0	6.1e-140
+110	TR	A0A6E8VUN7	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	499	1083	42.7	62.3	6.2e-140
+111	TR	A0A182UMK3	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	499	1083	43.1	62.1	6.2e-140
+112	TR	A0A2J7PH77	Cytochrome P450 6k1 OS=Cryptotermes secundus OX=105785 GN=CYP6K1_6 PE=3 SV=1	Cryptotermes secundus	523	1085	43.7	62.5	6.7e-140
+113	TR	W5JRW5	Cytochrome P450 OS=Anopheles darlingi OX=43151 GN=AND_002563 PE=3 SV=1	Anopheles darlingi	494	1081	42.3	63.9	1.1e-139
+114	TR	A0A182T3X4	Uncharacterized protein OS=Anopheles maculatus OX=74869 PE=3 SV=1	Anopheles maculatus	499	1081	42.4	64.3	1.2e-139
+115	TR	W5JRW9	Cytochrome P450 6a8 OS=Anopheles darlingi OX=43151 GN=AND_002562 PE=3 SV=1	Anopheles darlingi	499	1081	42.5	63.9	1.2e-139
+116	TR	A0A484BS16	Cytochrome P450 OS=Drosophila navojoa OX=7232 GN=AWZ03_003150 PE=3 SV=1	Drosophila navojoa	510	1082	43.0	61.3	1.3e-139
+117	TR	A0A3F2YU14	Cytochrome P450 OS=Anopheles christyi OX=43041 PE=3 SV=1	Anopheles christyi	500	1081	43.1	64.3	1.3e-139
+118	TR	A0A3F2YU03	Cytochrome P450 OS=Anopheles christyi OX=43041 PE=3 SV=1	Anopheles christyi	499	1080	43.0	62.3	1.8e-139
+119	TR	A0A9Q0MNS7	Cytochrome P450 6a14 OS=Pseudolycoriella hygida OX=35572 GN=Cyp6a14_5 PE=3 SV=1	Pseudolycoriella hygida	497	1079	42.3	65.1	2.3e-139
+120	TR	A0A182FZZ0	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	503	1079	41.6	63.1	2.8e-139
+121	TR	A0A084VFX7	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00004048 PE=3 SV=1	Anopheles sinensis	495	1078	43.9	64.5	3.1e-139
+122	TR	A0A9Q0RUY1	Cytochrome P450 6a14 (Fragment) OS=Pseudolycoriella hygida OX=35572 GN=Cyp6a14_6 PE=3 SV=1	Pseudolycoriella hygida	528	1081	42.3	62.7	3.2e-139
+123	TR	A0A182QER0	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	500	1078	41.9	62.6	3.6e-139
+124	TR	A0A084VFX8	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00004049 PE=3 SV=1	Anopheles sinensis	501	1078	42.5	62.6	3.8e-139
+125	TR	A0A2J7QNM4	Putative cytochrome P450 6a13 OS=Cryptotermes secundus OX=105785 GN=Cyp6a13 PE=3 SV=1	Cryptotermes secundus	525	1080	43.4	61.8	4.1e-139
+126	TR	A0A182M374	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	499	1077	42.7	62.2	5e-139
+127	TR	A0A182QLM3	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	499	1076	43.2	62.5	7.1e-139
+128	TR	A0AAG5D6R3	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	499	1076	41.6	63.0	7.1e-139
+129	TR	A0A6I9VMT5	Cytochrome P450 6a2 OS=Bactrocera dorsalis OX=27457 GN=LOC105227474 PE=3 SV=2	Bactrocera dorsalis	507	1076	43.1	64.1	9.1e-139
+130	TR	A0A182Q8C1	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	499	1075	42.1	62.1	1e-138
+131	TR	A0A182U4B7	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	501	1075	43.3	63.7	1.1e-138
+132	TR	A0A2Y9D1N4	Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	500	1074	42.3	63.4	1.5e-138
+133	TR	A0A1I8NMH2	Cytochrome P450 OS=Stomoxys calcitrans OX=35570 GN=106082266 PE=3 SV=1	Stomoxys calcitrans	502	1074	41.3	62.5	1.6e-138
+134	TR	A0A182QTT1	Cytochrome P450 OS=Anopheles farauti OX=69004 PE=3 SV=1	Anopheles farauti	500	1073	43.1	63.4	2.1e-138
+135	TR	A0A6E8VW58	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=1	Anopheles coluzzii	501	1072	42.9	63.9	3e-138
+136	TR	A0A2Y9D1S5	Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	499	1071	41.9	62.3	4e-138
+137	TR	A0A1S4GXL8	Uncharacterized protein OS=Anopheles gambiae OX=7165 PE=3 SV=1	Anopheles gambiae	501	1071	42.7	63.7	4.3e-138
+138	TR	A0A182TJX3	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	483	1069	43.8	64.3	4.8e-138
+139	TR	A0A182W6V2	Cytochrome P450 OS=Anopheles minimus OX=112268 PE=3 SV=1	Anopheles minimus	502	1068	42.1	62.6	1.2e-137
+140	TR	A0A182II54	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	501	1067	42.7	63.9	1.7e-137
+141	TR	Q16WR9	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571529 PE=3 SV=1	Aedes aegypti	493	1066	40.2	64.6	1.9e-137
+142	TR	A0A182PYW1	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	499	1066	42.5	60.5	2.3e-137
+143	TR	A0A182F5V5	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	478	1064	42.1	65.5	2.3e-137
+144	TR	A0A2J7QT94	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_5 PE=3 SV=1	Cryptotermes secundus	531	1068	42.7	60.0	3.2e-137
+145	TR	Q16WR7	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571524 PE=3 SV=1	Aedes aegypti	499	1065	39.9	63.0	3.2e-137
+146	TR	A0A182PYW7	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	500	1065	42.6	62.9	3.3e-137
+147	TR	A0A2Y9D1N8	Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	501	1064	42.5	62.8	4.9e-137
+148	TR	A0ABM3JE02	Cytochrome P450 6a8-like isoform X2 OS=Bactrocera dorsalis OX=27457 GN=LOC105230201 PE=3 SV=1	Bactrocera dorsalis	504	1064	42.9	64.3	5.3e-137
+149	TR	A0A1B0ARH2	Cytochrome P450 OS=Glossina palpalis gambiensis OX=67801 PE=3 SV=1	Glossina palpalis gambiensis	499	1063	41.6	63.6	6.4e-137
+150	TR	A0A182SVX3	Cytochrome P450 OS=Anopheles maculatus OX=74869 PE=3 SV=1	Anopheles maculatus	500	1063	40.5	62.1	6.6e-137
+151	TR	W5JQT6	Cytochrome P450 OS=Anopheles darlingi OX=43151 GN=AND_002558 PE=3 SV=1	Anopheles darlingi	500	1063	40.5	63.3	6.6e-137
+152	TR	A0A6E8VVB2	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=2	Anopheles coluzzii	501	1063	41.8	63.0	6.9e-137
+153	TR	A0A6P8JNA9	Probable cytochrome P450 6a14 OS=Drosophila mauritiana OX=7226 GN=LOC117137102 PE=3 SV=1	Drosophila mauritiana	509	1063	42.1	61.9	8.9e-137
+154	TR	A0AAG5D7Y0	Cytochrome P450 OS=Anopheles atroparvus OX=41427 PE=3 SV=1	Anopheles atroparvus	499	1062	42.1	62.4	9.1e-137
+155	TR	W5JSD5	Cytochrome P450 6a8 OS=Anopheles darlingi OX=43151 GN=AND_002561 PE=3 SV=1	Anopheles darlingi	499	1062	42.4	63.1	9.1e-137
+156	TR	A0A182IIL5	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	501	1062	41.6	63.0	9.7e-137
+157	TR	A0A182IIL8	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	501	1061	41.2	62.6	1.4e-136
+158	TR	A0A182FZZ4	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	494	1060	40.9	63.7	1.6e-136
+159	TR	Q27694	Cytochrome P450 OS=Musca domestica OX=7370 GN=CYP6A5 PE=3 SV=1	Musca domestica	507	1061	42.4	61.9	1.7e-136
+160	TR	B4HRY9	GM20680 OS=Drosophila sechellia OX=7238 GN=Dsec\GM20680 PE=3 SV=1	Drosophila sechellia	509	1061	42.1	62.0	1.8e-136
+161	TR	A0A9C5ZHD7	Cytochrome P450 6A1-like OS=Glossina fuscipes OX=7396 GN=LOC119644196 PE=3 SV=1	Glossina fuscipes	499	1060	41.6	63.4	1.8e-136
+162	TR	A0A1A9X3E8	Cytochrome P450 OS=Glossina brevipalpis OX=37001 PE=3 SV=1	Glossina brevipalpis	500	1060	42.4	62.6	1.9e-136
+163	TR	A0A7R8UF10	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2706 PE=3 SV=1	Hermetia illucens	500	1060	42.6	61.2	1.9e-136
+164	TR	A0A182XUE9	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	501	1060	42.1	62.4	1.9e-136
+165	TR	A0A084VFX2	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00004039 PE=3 SV=1	Anopheles sinensis	495	1059	43.0	66.2	2.3e-136
+166	TR	A0A6P4FRB1	Probable cytochrome P450 6a14 OS=Drosophila rhopaloa OX=1041015 GN=LOC108052293 PE=3 SV=1	Drosophila rhopaloa	509	1060	41.7	61.6	2.5e-136
+167	TR	A0A6L2PL74	Cytochrome P450 OS=Coptotermes formosanus OX=36987 GN=Cfor_10244 PE=3 SV=1	Coptotermes formosanus	521	1061	42.4	61.7	2.6e-136
+168	TR	Q27692	Cytochrome P450 OS=Musca domestica OX=7370 GN=CYP6A4 PE=3 SV=1	Musca domestica	505	1058	43.4	60.7	4.4e-136
+169	TR	A0A2J7QXU7	Cytochrome P450 6a2 OS=Cryptotermes secundus OX=105785 GN=Cyp6a2_7 PE=3 SV=1	Cryptotermes secundus	518	1059	41.2	60.2	4.7e-136
+170	TR	A0A9Q0BKQ7	Cytochrome P450 6a14 OS=Drosophila gunungcola OX=103775 GN=M5D96_011533 PE=3 SV=1	Drosophila gunungcola	509	1058	42.0	61.9	5e-136
+171	TR	A0A6E8VUN2	Cytochrome P450 OS=Anopheles coluzzii OX=1518534 PE=3 SV=2	Anopheles coluzzii	501	1057	41.0	62.6	5.5e-136
+172	TR	A0A1S4GXK7	Cytochrome P450 OS=Anopheles gambiae OX=7165 PE=3 SV=1	Anopheles gambiae	501	1057	41.0	62.6	5.5e-136
+173	TR	A0A182Y3M1	Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1	Anopheles stephensi	501	1056	41.2	62.5	7.8e-136
+174	TR	A0A084VN59	Cytochrome P450 OS=Anopheles sinensis OX=74873 GN=ZHAS_00006840 PE=3 SV=1	Anopheles sinensis	501	1056	40.7	62.7	7.8e-136
+175	TR	B4J5X7	GH21095 OS=Drosophila grimshawi OX=7222 GN=Dgri\GH21095 PE=3 SV=1	Drosophila grimshawi	508	1056	42.2	61.8	9.8e-136
+176	TR	B4QFT9	GD10157 OS=Drosophila simulans OX=7240 GN=Dsim\GD10157 PE=3 SV=1	Drosophila simulans	509	1055	41.9	61.7	1.4e-135
+177	TR	B4GD79	GL10369 OS=Drosophila persimilis OX=7234 GN=Dper\GL10369 PE=3 SV=1	Drosophila persimilis	509	1055	41.5	60.7	1.4e-135
+178	TR	A0A182V355	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	503	1054	41.0	62.4	1.7e-135
+179	TR	Q9NAV9	Cytochrome P450 CYP6N3v3 OS=Aedes albopictus OX=7160 GN=109421553 PE=2 SV=1	Aedes albopictus	497	1053	40.3	64.3	1.9e-135
+180	TR	A0A182PZ92	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	498	1053	42.4	63.9	2e-135
+181	TR	D3TP04	Cytochrome P450 OS=Glossina morsitans morsitans OX=37546 PE=2 SV=1	Glossina morsitans morsitans	500	1053	41.5	63.1	2.1e-135
+182	TR	Q16WR6	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571532 PE=3 SV=1	Aedes aegypti	522	1055	38.7	62.3	2.2e-135
+183	TR	A0A182UA18	Cytochrome P450 OS=Anopheles melas OX=34690 PE=3 SV=1	Anopheles melas	501	1053	40.8	62.6	2.2e-135
+184	TR	A0A2J7R4P8	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=B7P43_G11725 PE=3 SV=1	Cryptotermes secundus	524	1055	42.0	59.2	2.3e-135
+185	TR	B4P2V0	Uncharacterized protein OS=Drosophila yakuba OX=7245 GN=Dyak\GE22940 PE=3 SV=1	Drosophila yakuba	509	1053	42.0	61.5	2.9e-135
+186	TR	A0A182XUK9	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	501	1052	41.0	62.6	3.1e-135
+187	TR	A0A7R8UGD7	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2750 PE=3 SV=1	Hermetia illucens	501	1052	42.3	62.2	3.1e-135
+188	TR	A0A182IIL4	Uncharacterized protein OS=Anopheles arabiensis OX=7173 PE=3 SV=1	Anopheles arabiensis	501	1051	41.2	62.1	4.4e-135
+189	TR	A0A182G0F7	Uncharacterized protein OS=Anopheles albimanus OX=7167 PE=3 SV=1	Anopheles albimanus	499	1050	41.8	63.1	5.9e-135
+190	TR	A0A9C5ZMJ0	Cytochrome P450 6a8-like OS=Glossina fuscipes OX=7396 GN=LOC119644120 PE=3 SV=1	Glossina fuscipes	499	1050	41.2	63.2	5.9e-135
+191	TR	A0A1A9ZRI0	Cytochrome P450 OS=Glossina pallidipes OX=7398 PE=3 SV=1	Glossina pallidipes	500	1050	41.3	62.5	6.1e-135
+192	TR	A0A6I9VCD0	Probable cytochrome P450 6a14 OS=Bactrocera dorsalis OX=27457 GN=LOC105230949 PE=3 SV=1	Bactrocera dorsalis	503	1050	42.9	60.6	6.7e-135
+193	TR	Q16WS0	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571528 PE=3 SV=1	Aedes aegypti	498	1049	40.8	63.6	8e-135
+194	SP	Q9V4U7	Probable cytochrome P450 6a14 OS=Drosophila melanogaster OX=7227 GN=Cyp6a14 PE=3 SV=3	Drosophila melanogaster	509	1050	41.4	61.5	8.1e-135
+195	TR	A0ABM1PLK3	Probable cytochrome P450 6a14 OS=Drosophila arizonae OX=7263 GN=LOC108616994 PE=3 SV=1	Drosophila arizonae	510	1050	41.8	60.9	8.4e-135
+196	TR	A0A1A9UF69	Cytochrome P450 OS=Glossina austeni OX=7395 PE=3 SV=1	Glossina austeni	500	1049	41.4	63.2	8.6e-135
+197	TR	B4QGB2	GD11084 OS=Drosophila simulans OX=7240 GN=Dsim\GD11084 PE=3 SV=1	Drosophila simulans	502	1049	41.6	62.5	9.1e-135
+198	TR	A0A2J7R4P3	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=B7P43_G11725 PE=3 SV=1	Cryptotermes secundus	524	1051	41.8	59.4	9.2e-135
+199	TR	A0ABM3JDZ5	Cytochrome P450 6a2-like isoform X4 OS=Bactrocera dorsalis OX=27457 GN=LOC105230201 PE=3 SV=1	Bactrocera dorsalis	504	1049	41.7	62.9	9.7e-135
+200	TR	A0ABM3JDZ7	Cytochrome P450 6a8-like isoform X8 OS=Bactrocera dorsalis OX=27457 GN=LOC105230201 PE=3 SV=1	Bactrocera dorsalis	504	1049	42.3	64.1	9.7e-135
+201	TR	W5JMQ5	Cytochrome P450 OS=Anopheles darlingi OX=43151 GN=AND_002559 PE=3 SV=1	Anopheles darlingi	500	1048	40.2	61.8	1.2e-134
+202	TR	A0A182PZ94	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	501	1048	40.4	62.2	1.3e-134
+203	TR	A0A0M4E8B6	Cyp6u1 OS=Drosophila busckii OX=30019 GN=Dbus_chr2Rg513 PE=3 SV=1	Drosophila busckii	507	1048	41.7	63.1	1.5e-134
+204	TR	Q16WS2	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5571549 PE=3 SV=1	Aedes aegypti	499	1047	41.2	61.4	1.7e-134
+205	TR	A0A7R8UEU9	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2711 PE=3 SV=1	Hermetia illucens	500	1047	40.5	62.8	1.7e-134
+206	TR	A0A182LUC0	Cytochrome P450 OS=Anopheles culicifacies OX=139723 PE=3 SV=1	Anopheles culicifacies	501	1047	41.6	61.7	1.8e-134
+207	TR	A0A1I8JVA9	Cytochrome P450 OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	501	1047	41.4	61.6	1.8e-134
+208	TR	A0ABM3JDZ6	Cytochrome P450 6a8-like isoform X3 OS=Bactrocera dorsalis OX=27457 GN=LOC105230201 PE=3 SV=1	Bactrocera dorsalis	504	1047	42.3	64.1	2e-134
+209	TR	A0A182Y3M4	Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1	Anopheles stephensi	500	1046	40.6	61.4	2.4e-134
+210	TR	A0A7R8YNR1	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2744 PE=3 SV=1	Hermetia illucens	501	1046	42.9	63.0	2.5e-134
+211	TR	A0ABM5JFX8	Cytochrome P450 6a14 OS=Drosophila rhopaloa OX=1041015 PE=3 SV=1	Drosophila rhopaloa	506	1046	41.9	62.4	2.9e-134
+212	TR	A0A6I8UVA2	Probable cytochrome P450 6a14 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=LOC4804974 PE=3 SV=1	Drosophila pseudoobscura pseudoobscura	509	1045	41.3	60.5	4.6e-134
+213	TR	A0A182XUE8	Uncharacterized protein OS=Anopheles quadriannulatus OX=34691 PE=3 SV=1	Anopheles quadriannulatus	501	1044	41.0	62.0	5e-134
+214	TR	A0A9J6BIW3	Cytochrome P450 OS=Polypedilum vanderplanki OX=319348 GN=PVAND_000051 PE=3 SV=1	Polypedilum vanderplanki	505	1044	40.0	63.6	5.7e-134
+215	TR	A0A6I8VR98	Probable cytochrome P450 6a14 OS=Drosophila pseudoobscura pseudoobscura OX=46245 GN=LOC117183541 PE=3 SV=1	Drosophila pseudoobscura pseudoobscura	509	1044	41.6	60.1	6.5e-134
+216	TR	A0A182VHC7	Uncharacterized protein OS=Anopheles merus OX=30066 PE=3 SV=1	Anopheles merus	501	1043	41.0	62.2	7.1e-134
+217	TR	A0A2J7QIZ0	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=Cyp6a14_9 PE=3 SV=1	Cryptotermes secundus	526	1045	41.3	59.1	7.9e-134
+218	TR	A0A3B0J2R6	Blast:Probable cytochrome P450 6a14 OS=Drosophila guanche OX=7266 GN=DGUA_6G003331 PE=3 SV=1	Drosophila guanche	509	1043	41.3	62.2	9.2e-134
+219	TR	A0ABQ8SME4	Cytochrome P450 OS=Periplaneta americana OX=6978 GN=ANN_23438 PE=3 SV=1	Periplaneta americana	543	1046	41.7	60.3	9.5e-134
+220	TR	A0A9N9XPE0	Cytochrome P450 OS=Phyllotreta striolata OX=444603 GN=PHYEVI_LOCUS6132 PE=3 SV=1	Phyllotreta striolata	522	1044	40.3	60.7	9.8e-134
+221	TR	B4HRR3	GM21579 OS=Drosophila sechellia OX=7238 GN=Dsec\GM21579 PE=3 SV=1	Drosophila sechellia	502	1042	41.6	62.4	1e-133
+222	TR	A0A6P4I8X7	Probable cytochrome P450 6a23 OS=Drosophila kikkawai OX=30033 GN=LOC108072419 PE=3 SV=2	Drosophila kikkawai	505	1042	41.5	62.7	1.1e-133
+223	TR	B4GD75	GL10373 OS=Drosophila persimilis OX=7234 GN=Dper\GL10373 PE=3 SV=1	Drosophila persimilis	500	1041	41.2	61.2	1.4e-133
+224	TR	A0A9N9S193	Cytochrome P450 OS=Chironomus riparius OX=315576 GN=CHIRRI_LOCUS9188 PE=3 SV=1	Chironomus riparius	496	1040	41.1	62.5	1.7e-133
+225	TR	A0A7R8UMV9	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS6677 PE=3 SV=1	Hermetia illucens	496	1040	38.8	61.8	1.7e-133
+226	TR	A0A6P4HMQ9	Probable cytochrome P450 6a14 OS=Drosophila kikkawai OX=30033 GN=LOC108070792 PE=3 SV=1	Drosophila kikkawai	509	1041	40.9	61.3	1.8e-133
+227	TR	A0AB39ZTE8	Probable cytochrome P450 6a14 OS=Drosophila suzukii OX=28584 GN=Cyp6a14 PE=3 SV=2	Drosophila suzukii	509	1041	41.4	61.1	1.8e-133
+228	TR	A0A2Y9D1I9	Cytochrome P450 OS=Anopheles dirus OX=7168 PE=3 SV=1	Anopheles dirus	500	1040	41.1	62.0	1.9e-133
+229	TR	B4MQ14	GK21511 OS=Drosophila willistoni OX=7260 GN=Dwil\GK21511 PE=3 SV=1	Drosophila willistoni	501	1040	41.7	62.4	2e-133
+230	TR	B3MFW8	Uncharacterized protein OS=Drosophila ananassae OX=7217 GN=Dana\GF12579 PE=3 SV=2	Drosophila ananassae	507	1040	41.6	62.6	2.4e-133
+231	TR	A0A7R8UGA7	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2705 PE=3 SV=1	Hermetia illucens	508	1040	41.1	62.0	2.5e-133
+232	TR	A0A6I8TCS1	Uncharacterized protein OS=Aedes aegypti OX=7159 GN=5572936 PE=3 SV=1	Aedes aegypti	499	1039	41.0	63.1	2.7e-133
+233	TR	A0ABD1DNS5	Cytochrome P450 OS=Culex pipiens pipiens OX=38569 GN=pipiens_007757 PE=3 SV=1	Culex pipiens pipiens	490	1038	43.0	62.9	2.8e-133
+234	TR	B4MQ12	GK21513 OS=Drosophila willistoni OX=7260 GN=Dwil\GK21513 PE=3 SV=1	Drosophila willistoni	501	1039	41.9	61.8	2.8e-133
+235	TR	A0ABD1DFJ1	Cytochrome P450 OS=Culex pipiens pipiens OX=38569 GN=pipiens_009262 PE=3 SV=1	Culex pipiens pipiens	499	1038	40.6	62.1	3.8e-133
+236	TR	B0XCA9	Cytochrome P450 OS=Culex quinquefasciatus OX=7176 GN=6050719 PE=3 SV=1	Culex quinquefasciatus	499	1038	40.4	62.3	3.8e-133
+237	TR	A0AA38IPU4	Cytochrome P450 OS=Zophobas morio OX=2755281 GN=Zmor_010965 PE=3 SV=1	Zophobas morio	522	1040	40.7	60.9	3.9e-133
+238	TR	A0A7R8YRI7	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS2742 PE=3 SV=1	Hermetia illucens	501	1038	42.1	61.6	4e-133
+239	TR	A0A7R8Z428	Cytochrome P450 OS=Hermetia illucens OX=343691 GN=HERILL_LOCUS14934 PE=3 SV=1	Hermetia illucens	502	1038	41.1	62.1	4.2e-133
+240	TR	A0A2J7R4Q0	Putative cytochrome P450 6a14 OS=Cryptotermes secundus OX=105785 GN=B7P43_G11725 PE=3 SV=1	Cryptotermes secundus	524	1040	41.4	58.6	4.2e-133
+241	TR	A0ABM3V1P5	Cytochrome P450 6a9-like OS=Musca domestica OX=7370 GN=LOC105261855 PE=3 SV=1	Musca domestica	505	1038	41.0	62.0	4.6e-133
+242	TR	A0A9N9WUW7	Cytochrome P450 OS=Chironomus riparius OX=315576 GN=CHIRRI_LOCUS9186 PE=3 SV=1	Chironomus riparius	495	1037	41.6	62.7	4.7e-133
+243	TR	B3N8N1	Uncharacterized protein OS=Drosophila erecta OX=7220 GN=Dere\GG10635 PE=3 SV=1	Drosophila erecta	509	1038	41.0	61.1	5.2e-133
+244	TR	A0A9N9WW80	Cytochrome P450 OS=Chironomus riparius OX=315576 GN=CHIRRI_LOCUS9187 PE=3 SV=1	Chironomus riparius	500	1037	43.1	63.4	5.5e-133
+245	TR	B4MQ13	GK21512 OS=Drosophila willistoni OX=7260 GN=Dwil\GK21512 PE=3 SV=1	Drosophila willistoni	501	1037	41.4	62.2	5.7e-133
+246	TR	A0AAU9G6G1	Probable cytochrome P450 6a13 OS=Drosophila madeirensis OX=30013 GN=DMAD_02781 PE=3 SV=1	Drosophila madeirensis	493	1036	41.8	62.3	6.2e-133
+247	TR	B0WVF0	Cytochrome P450 6a22 OS=Culex quinquefasciatus OX=7176 GN=6043765 PE=3 SV=1	Culex quinquefasciatus	495	1036	40.9	61.5	6.6e-133
+248	TR	A0A1I8NDK9	Probable cytochrome P450 6a18 OS=Musca domestica OX=7370 GN=101898668 PE=3 SV=1	Musca domestica	500	1036	42.2	63.9	7.8e-133
+249	TR	A0A182PYW0	Uncharacterized protein OS=Anopheles epiroticus OX=199890 PE=3 SV=1	Anopheles epiroticus	498	1035	41.8	62.6	1e-132
+250	TR	A0A182Y3M3	Uncharacterized protein OS=Anopheles stephensi OX=30069 PE=3 SV=1	Anopheles stephensi	521	1037	40.6	61.6	1.1e-132

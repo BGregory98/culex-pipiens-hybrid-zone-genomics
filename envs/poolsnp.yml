@@ -1,0 +1,22 @@
+# Conda environment "poolsnp" on the cluster (ENV_POOLSNP in cluster/config.sh).
+# Activated by _toplevel/mpileup_v4_array.sh (samtools there comes from the
+# samtools module, envs/hts_modules.yml), _toplevel/PoolSNP_v4.sh and the
+# callable-depth steps 06_depth/glmm/01-02 (numpy, tdigest).
+# Versions from `conda list -n poolsnp` on the cluster. PoolSNP writes
+# "PoolSnp-1.05" as its internal version in the VCF header; the conda package
+# is 1.0.1.
+name: poolsnp
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - poolsnp=1.0.1
+  - parallel=20170422
+  - perl=5.22.0.1
+  - python=3.14.0
+  - pip=25.2
+  - pip:
+      - numpy==1.26.4
+      - tdigest==0.5.2.2
+      - accumulation-tree==0.6.4
+      - pyudorandom==1.0.0

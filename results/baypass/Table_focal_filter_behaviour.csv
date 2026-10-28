@@ -1,0 +1,5 @@
+"step","n","pct_of_coarse"
+"Coarse outlier positions entering clustering (XtX OR BF, >= minor)",107907,100
+"Positions retained by the >=10-SNP / 10 kb chaining rule",67865,62.89
+"Dual-outlier positions (>= minor for XtX AND BF)",1510,1.4
+"Dual-outlier AND retained by chaining (published focal set)",1299,1.2

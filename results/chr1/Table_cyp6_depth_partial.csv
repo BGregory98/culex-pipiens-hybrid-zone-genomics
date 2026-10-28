@@ -1,0 +1,10 @@
+quantity,value
+alpha_sum_genomewide,0.632363226936801
+r_MOL,0.999265733153168
+r_PIP,1.5137593314355
+r_QUI,1.5789591253424
+pip_qui_gap,0.0651997939069
+pcor_depth_alphaQUI_given_bio05,0.604044472539807
+pcor_p,0.00227064624430496
+pcor_depth_bio05_given_alphaQUI,0.241475992947785
+pcor_p_bio05,0.266988775167398

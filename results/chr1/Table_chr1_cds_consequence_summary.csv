@@ -1,0 +1,7 @@
+"gene_id","description","n_cds_snps","n_synonymous","n_nonsynonymous","n_nonsense","aa_changes"
+"CQUJHB007871","probable cytochrome P450 6a14",5,2,3,0,"Q411H; E335Q; G95C"
+"CQUJHB009005","cytochrome P450 6A1",8,5,3,0,"T503K; N469S; V18I"
+"CQUJHB009148","probable cytochrome P450 6a14",18,15,3,0,"T335A; H327N; V166A"
+"CQUJHB017007","probable cytochrome P450 6a14",13,11,2,0,"N256K; E163D"
+"CQUJHB001163","probable cytochrome P450 6a14",6,5,1,0,"L142F"
+"CQUJHB008986","probable cytochrome P450 6a14",8,7,1,0,"S327N"

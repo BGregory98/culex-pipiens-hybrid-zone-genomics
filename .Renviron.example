@@ -1,0 +1,3 @@
+# Copy to .Renviron in the repository root and set the path to the unpacked
+# data deposit (docs/DATA_DEPOSIT.md). Restart R after editing.
+CULEX_DATA=/path/to/culex-deposit

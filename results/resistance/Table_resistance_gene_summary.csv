@@ -1,0 +1,61 @@
+"target_class","gene_id","desc","n_nonsyn","max_mean_freq","n_canonical","min_bio05_p","min_pis_p"
+"Ace-1","CQUJHB017587","acetylcholinesterase",75,0.936,8,0.00337,0.00774
+"Ace-1","CQUJHB006737","acetylcholinesterase",53,0.811,1,0.00258,0.000829
+"Ace-1","CQUJHB005450","acetylcholinesterase",10,0.072,1,0.232,0.297
+"CpL1a CYP6 paralog","CQUJHB009005","cytochrome P450 6A1",52,0.838,10,1.07e-06,0.0466
+"CpL1a CYP6 paralog","CQUJHB008986","probable cytochrome P450 6a14",39,0.543,4,4.49e-06,0.0287
+"CpL1a CYP6 paralog","CQUJHB001163","probable cytochrome P450 6a14",34,0.582,6,3.44e-07,0.00341
+"CpL1a CYP6 paralog","CQUJHB007871","probable cytochrome P450 6a14",34,0.818,4,8.75e-07,0.000846
+"CpL1a CYP6 paralog","CQUJHB009148","probable cytochrome P450 6a14",27,0.882,0,5.31e-07,0.0542
+"CpL1a CYP6 paralog","CQUJHB017007","probable cytochrome P450 6a14",27,0.844,5,9.96e-07,0.0361
+"Ester locus","CQUJHB003761","esterase B1",202,0.942,30,0.00462,0.00928
+"Ester locus","CQUJHB011823","venom carboxylesterase-6",104,0.855,13,0.00263,0.0206
+"Ester locus","CQUJHB004456","esterase B1, transcript variant X1",94,0.934,14,0.000117,0.00385
+"Ester locus","CQUJHB013589","venom carboxylesterase-6",73,0.895,8,0.00445,0.00731
+"Ester locus","CQUJHB015704","venom carboxylesterase-6, transcript variant X1",71,0.932,5,0.00358,0.0107
+"Ester locus","CQUJHB004199","esterase FE4-like",60,0.823,4,0.000825,5e-04
+"Ester locus","CQUJHB017923","venom carboxylesterase-6",55,0.87,3,0.00338,0.0208
+"Ester locus","CQUJHB002752","venom carboxylesterase-6",53,0.931,8,0.0403,0.0466
+"Ester locus","CQUJHB012571","esterase FE4",52,0.924,2,0.016,0.0969
+"Ester locus","CQUJHB005542","esterase B1",47,0.888,9,0.011,0.019
+"Ester locus","CQUJHB017796","esterase B1",47,0.872,1,0.0309,0.00886
+"Ester locus","CQUJHB017741","venom carboxylesterase-6",42,0.887,6,0.00478,0.00573
+"Ester locus","CQUJHB002189","venom carboxylesterase-6",38,0.932,2,0.00254,0.0131
+"Ester locus","CQUJHB006248","venom carboxylesterase-6",38,0.838,1,0.0401,0.0463
+"Ester locus","CQUJHB009096","venom carboxylesterase-6",34,0.56,2,0.0147,0.0125
+"Ester locus","CQUJHB011711","carboxylesterase 1F",34,0.856,5,0.0184,0.0285
+"Ester locus","CQUJHB012831","venom carboxylesterase-6",29,0.592,1,0.0155,0.0299
+"Ester locus","CQUJHB006077","esterase B1",26,0.896,3,0.0466,0.00204
+"Ester locus","CQUJHB008822","esterase B1",25,0.94,4,0.00965,0.0565
+"Ester locus","CQUJHB009482","esterase B1",24,0.96,5,0.00987,0.0766
+"Ester locus","CQUJHB010805","esterase B1",24,0.924,2,0.0243,0.0177
+"Ester locus","CQUJHB007476","palmitoleoyl-protein carboxylesterase NOTUM",23,0.632,3,0.00144,0.00303
+"Ester locus","CQUJHB007804","venom carboxylesterase-6",22,0.878,3,0.0234,0.0686
+"Ester locus","CQUJHB001620","venom carboxylesterase-6",20,0.85,1,0.00523,0.0372
+"Ester locus","CQUJHB013559","carboxylesterase 5A",20,0.298,4,0.0498,0.0581
+"Ester locus","CQUJHB013165","carboxylesterase 4A",6,0.227,0,0.0696,0.0552
+"GST","CQUJHB017125","glutathione S-transferase 4",27,0.872,5,0.0017,0.00239
+"GST","CQUJHB003614","microsomal glutathione S-transferase 1",24,0.827,0,0.000606,0.0338
+"GST","CQUJHB016534","glutathione S-transferase E14, transcript variant X2",24,0.679,1,0.026,0.083
+"GST","CQUJHB007342","glutathione S-transferase C-terminal domain-containing protein homolog",22,0.932,3,0.0205,9.93e-05
+"GST","CQUJHB010621","glutathione S-transferase 1",19,0.686,3,0.00245,0.0174
+"GST","CQUJHB006931","glutathione S-transferase 1",18,0.62,1,0.000601,0.0491
+"GST","CQUJHB008222","microsomal glutathione S-transferase 1",13,0.737,1,0.00235,0.00946
+"GST","CQUJHB010465","glutathione S-transferase theta-1",12,0.425,3,0.0649,0.0351
+"GST","CQUJHB016899","glutathione S-transferase theta-1",12,0.776,1,0.0257,0.13
+"GST","CQUJHB000290","microsomal glutathione S-transferase 1",10,0.9,0,0.0203,0.15
+"GST","CQUJHB005211","glutathione S-transferase 1",10,0.649,1,0.0688,0.152
+"GST","CQUJHB007029","glutathione S-transferase theta-1",10,0.897,0,0.0496,0.0159
+"GST","CQUJHB013242","glutathione S-transferase 1",10,0.942,0,0.0416,0.0539
+"GST","CQUJHB017841","glutathione S-transferase 1-1",9,0.742,1,0.132,0.0464
+"GST","CQUJHB011318","microsomal glutathione S-transferase 1",4,0.359,0,0.0479,0.377
+"GST","CQUJHB013120","glutathione S-transferase theta-1",4,0.237,1,0.0718,0.436
+"GST","CQUJHB010114","glutathione S-transferase 1-1",3,0.635,0,0.000232,0.0907
+"GST","CQUJHB010421","glutathione S-transferase 1",3,0.923,1,0.0572,0.0174
+"GST","CQUJHB011964","glutathione S-transferase",2,0.22,0,0.863,0.826
+"GST","CQUJHB011999","glutathione S-transferase 1-1, transcript variant X2",1,0.017,0,0.817,0.105
+"Na channel 60E (control)","CQUJHB000738","sodium channel protein 60E",152,0.93,16,0.00139,0.000939
+"Rdl / GABA-gated Cl","CQUJHB017821","gamma-aminobutyric acid receptor subunit alpha-6",23,0.691,2,0.209,0.0168
+"Rdl / GABA-gated Cl","CQUJHB012451","gamma-aminobutyric acid receptor subunit beta-like, transcript variant X2",3,0.322,1,0.056,0.55
+"Rdl / GABA-gated Cl","CQUJHB004999","gamma-aminobutyric acid receptor subunit beta, transcript variant X10",2,0.977,1,0.445,0.133
+"Vgsc/para (kdr)","CQUJHB005371","sodium channel protein para, transcript variant X3",8,0.384,1,0.0975,0.0486

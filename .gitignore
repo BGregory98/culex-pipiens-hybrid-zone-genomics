@@ -1,0 +1,19 @@
+# R session state
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Local path to the data deposit (see .Renviron.example)
+.Renviron
+# Logs written by R/run_all.R
+logs/
+# Rebuildable caches and optional rebuilt deposit files
+results/resistance/*.sqlite
+data/allele_frequencies_v4.csv
+Rplots.pdf
+# Site-specific cluster settings (see cluster/config.sh)
+cluster/config.local.sh
+# OS / editor
+.DS_Store
+Thumbs.db
+*~

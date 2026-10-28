@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article (preferred-citation) and this repository."
+title: "Code and data for: Urban enrichment of molestus ancestry and opposing temperature clines in a metropolitan Culex pipiens hybrid zone"
+abstract: >-
+  Analysis code, small inputs, result tables and figures for a whole-genome
+  Pool-seq study of 24 field Culex pipiens pools across the Baltimore-Washington
+  corridor and three reference pools, identifying three environmentally
+  structured loci with different donor lineages, architectures and
+  environmental gradients.
+type: software
+repository-code: "https://github.com/BGregory98/culex-pipiens-hybrid-zone-genomics"
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Gregory
+    given-names: Benjamin P.
+    affiliation: "Department of Entomology, University of Maryland, College Park, USA"
+    orcid: "https://orcid.org/0009-0002-6291-2163"
+  - family-names: Arsenault-Benoit
+    given-names: Arielle
+    affiliation: "University of Maryland Global Campus Europe"
+    orcid: "https://orcid.org/0000-0002-2976-2100"
+  - family-names: Bell
+    given-names: Katherine L.
+    affiliation: "Department of Biology, Texas State University, San Marcos, USA"
+    orcid: "https://orcid.org/0000-0003-1563-2468"
+  - family-names: Fritz
+    given-names: Megan L.
+    affiliation: "Department of Entomology, University of Maryland, College Park, USA"
+    orcid: "https://orcid.org/0000-0003-0472-4877"
+keywords:
+  - Culex pipiens
+  - introgression
+  - hybrid zone
+  - Pool-seq
+  - genotype-environment association
+  - urbanization
+  - cytochrome P450
+  - chromosomal inversion
+preferred-citation:
+  type: article
+  title: "Urban enrichment of molestus ancestry and opposing temperature clines in a metropolitan Culex pipiens hybrid zone"
+  authors:
+    - family-names: Gregory
+      given-names: Benjamin P.
+    - family-names: Arsenault-Benoit
+      given-names: Arielle
+    - family-names: Bell
+      given-names: Katherine L.
+    - family-names: Fritz
+      given-names: Megan L.
+  journal: "Molecular Biology and Evolution"
+  year: 2026
+  notes: "Submitted. Update with volume, pages and DOI on acceptance."

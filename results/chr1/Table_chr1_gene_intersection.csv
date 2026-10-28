@@ -1,0 +1,82 @@
+"gene_id","gene_type","is_protein_coding","family","gene_desc","gene_start","gene_end","gene_strand","gene_length_kb","n_focal_snps","n_focal_snps_per_kb","snp_position","snp_XtXst","snp_predictor","snp_predictor_cat"
+"CQUJHB009148","protein_coding_gene",TRUE,"P450","probable cytochrome P450 6a14",109085140,109086775,"-",1.636,20,12.2249388753056,109085333,266.84302866,"bio05","temperature"
+"CQUJHB017007","protein_coding_gene",TRUE,"P450","probable cytochrome P450 6a14",109087798,109089617,"-",1.82,15,8.24175824175824,109089219,296.67565154,"bio05","temperature"
+"CQUJHB008567","protein_coding_gene",TRUE,"other","uncharacterized LOC6037488",109151165,109151994,"+",0.83,5,6.02409638554217,109151334,220.02083896,"bio05","temperature"
+"CQUJHB009005","protein_coding_gene",TRUE,"P450","cytochrome P450 6A1",109074046,109076139,"-",2.094,12,5.73065902578797,109074609,236.02937489,"bio05","temperature"
+"CQUJHB008986","protein_coding_gene",TRUE,"P450","probable cytochrome P450 6a14",109083197,109084916,"-",1.72,8,4.65116279069767,109083851,252.76369637,"bio05","temperature"
+"CQUJHB001163","protein_coding_gene",TRUE,"P450","probable cytochrome P450 6a14",109091676,109093441,"-",1.766,7,3.96375990939977,109092740,225.19431231,"bio05","temperature"
+"CQUJHB007871","protein_coding_gene",TRUE,"P450","probable cytochrome P450 6a14",109100792,109102424,"-",1.633,5,3.06184935701163,109101372,266.87399832,"bio05","temperature"
+"CQUJHB009670","protein_coding_gene",TRUE,"other","myeloperoxidase",109154298,109157686,"-",3.389,8,2.36057834169371,109156161,199.75280328,"bio05","temperature"
+"CQUJHB000381","protein_coding_gene",TRUE,"other","uncharacterized LOC6035443",110224924,110225394,"+",0.471,1,2.12314225053079,110225055,146.18124904,"bio05","temperature"
+"CQUJHB013487","protein_coding_gene",TRUE,"other","flocculation protein FLO11-like, transcript variant X2",109137943,109140070,"-",2.128,4,1.8796992481203,109139789,252.12909884,"bio05","temperature"
+"CQUJHB011908","protein_coding_gene",TRUE,"other","uncharacterized LOC119765587",110549635,110550169,"+",0.535,1,1.86915887850467,110549736,106.84038887,"bio05","temperature"
+"CQUJHB005810","protein_coding_gene",TRUE,"other","uncharacterized LOC6035408",110696199,110697949,"-",1.751,3,1.71330668189606,110697608,155.22930962,"bio05","temperature"
+"CQUJHB003101","protein_coding_gene",TRUE,"other","sodium/calcium exchanger 1, transcript variant X8",108956307,109135964,"+",179.658,227,1.26351178349976,109049249,308.68799222,"bio05","temperature"
+"CQUJHB009592","protein_coding_gene",TRUE,"other","intraflagellar transport protein 81 homolog",108816419,108818075,"-",1.657,2,1.2070006035003,108818000,120.38676609,"bio05","temperature"
+"CQUJHB009505","protein_coding_gene",TRUE,"other","endonuclease III-like protein 1",110470784,110471626,"+",0.843,1,1.18623962040332,110471206,77.41048554,"bio05","temperature"
+"CQUJHB005680","protein_coding_gene",TRUE,"other","uncharacterized LOC6035400",110548959,110551523,"-",2.565,3,1.16959064327485,110549736,106.84038887,"bio05","temperature"
+"CQUJHB015479","protein_coding_gene",TRUE,"other","ecdysteroid-regulated 16 kDa protein, transcript variant X2",108823946,108826643,"-",2.698,3,1.1119347664937,108824623,150.63276292,"bio05","temperature"
+"CQUJHB014796","protein_coding_gene",TRUE,"other","sodium/potassium-transporting ATPase subunit alpha, transcript variant X6",108831998,108904988,"+",72.991,78,1.06862489896015,108895931,329.99534216,"bio05","temperature"
+"CQUJHB014780","protein_coding_gene",TRUE,"other","uncharacterized LOC6037481",109227080,109232160,"-",5.081,5,0.98405825624877,109231793,129.40482667,"bio05","temperature"
+"CQUJHB005160","protein_coding_gene",TRUE,"other","testicular acid phosphatase homolog",110476073,110478211,"-",2.139,2,0.935016362786349,110476455,95.19671234,"bio05","temperature"
+"CQUJHB003686","protein_coding_gene",TRUE,"other","carbonic anhydrase 1",109306827,109307937,"+",1.111,1,0.9000900090009,109307035,146.14132031,"wtd","other"
+"CQUJHB010451","protein_coding_gene",TRUE,"other","venom allergen 3 homolog",110850088,110851262,"-",1.175,1,0.851063829787234,110851198,92.10752963,"bio05","temperature"
+"CQUJHB007248","protein_coding_gene",TRUE,"other","carbonic anhydrase 1",109294591,109295798,"+",1.208,1,0.827814569536424,109295200,86.40374148,"bio05","temperature"
+"CQUJHB002347","protein_coding_gene",TRUE,"other","ADP,ATP carrier protein 2",109248097,109251775,"-",3.679,3,0.815438977983148,109251570,199.21891849,"bio05","temperature"
+"CQUJHB000893","protein_coding_gene",TRUE,"other","nuclear pore complex protein Nup107",110456006,110459103,"-",3.098,2,0.645577792123951,110457469,119.78557751,"bio05","temperature"
+"CQUJHB001960","protein_coding_gene",TRUE,"other","exosome complex exonuclease RRP44",110639103,110642375,"-",3.273,2,0.611060189428659,110640137,142.2787373,"bio05","temperature"
+"CQUJHB005749","protein_coding_gene",TRUE,"other","zinc finger protein 2 homolog",109376544,109378327,"+",1.784,1,0.560538116591928,109377386,72.50419189,"bio05","temperature"
+"CQUJHB014234","protein_coding_gene",TRUE,"other","ubiquitin conjugation factor E4 A",110010316,110014023,"-",3.708,2,0.539374325782093,110013249,124.02373192,"bio07","temperature"
+"CQUJHB004009","protein_coding_gene",TRUE,"other","saccharopine dehydrogenase-like oxidoreductase",110720118,110722087,"+",1.97,1,0.50761421319797,110721959,91.8697977,"bio05","temperature"
+"CQUJHB009982","protein_coding_gene",TRUE,"other","uncharacterized LOC119765357",108774641,108785327,"+",10.687,5,0.467858145410312,108784771,229.9396343,"bio05","temperature"
+"CQUJHB003988","protein_coding_gene",TRUE,"other","F-box/LRR-repeat protein 7, transcript variant X4",108795963,108811433,"+",15.471,7,0.452459440243035,108807574,165.05456913,"bio18","other"
+"CQUJHB003652","protein_coding_gene",TRUE,"other","serine/threonine-protein kinase PRP4 homolog",109176596,109178828,"-",2.233,1,0.447828034034931,109176901,113.01731434,"bio05","temperature"
+"CQUJHB017369","protein_coding_gene",TRUE,"other","calexcitin-1",108667097,108748008,"-",80.912,26,0.32133676092545,108692004,260.86366881,"bio05","temperature"
+"CQUJHB018418","protein_coding_gene",TRUE,"other","DNA-binding protein RFX2, transcript variant X4",110575554,110619331,"-",43.778,13,0.296952807346156,110595418,174.33900522,"pis","urbanization"
+"CQUJHB005152","protein_coding_gene",TRUE,"other","ADAM 17-like protease, transcript variant X1",109369378,109372757,"+",3.38,1,0.29585798816568,109372573,86.13253185,"bio05","temperature"
+"CQUJHB012804","protein_coding_gene",TRUE,"other","thyroid receptor-interacting protein 11",110643587,110688963,"+",45.377,13,0.286488749807171,110684999,207.56169817,"bio05","temperature"
+"CQUJHB007397","protein_coding_gene",TRUE,"other","kinesin-like protein KIF17, transcript variant X5",110723546,110732732,"+",9.187,2,0.217698922390334,110729511,136.44366862,"bio05","temperature"
+"CQUJHB010826","protein_coding_gene",TRUE,"other","plastin-1, transcript variant X2",110496952,110545724,"+",48.773,10,0.205031472331003,110545160,172.1805199,"bio05","temperature"
+"CQUJHB013315","protein_coding_gene",TRUE,"other","transmembrane protein 235",109309518,109344303,"-",34.786,6,0.172483182889668,109343684,150.82284784,"bio05","temperature"
+"CQUJHB011240","protein_coding_gene",TRUE,"other","DNA topoisomerase 1, transcript variant X3",110557326,110569044,"-",11.719,2,0.170663025855448,110568744,120.1597021,"tree_canopy","urbanization"
+"CQUJHB013857","protein_coding_gene",TRUE,"other","alpha-2-macroglobulin receptor-associated protein",108787224,108793796,"-",6.573,1,0.152137532329226,108787815,146.49359279,"bio05","temperature"
+"CQUJHB012419","protein_coding_gene",TRUE,"other","peripheral plasma membrane protein CASK, transcript variant X2",110018936,110447329,"-",428.394,62,0.144726583472224,110147585,182.30963739,"bio05","temperature"
+"CQUJHB014648","protein_coding_gene",TRUE,"other","myosin-I heavy chain",110756264,110819229,"+",62.966,9,0.142934281993457,110781824,150.64800702,"bio07","temperature"
+"CQUJHB008527","protein_coding_gene",TRUE,"other","leucine-rich repeat-containing protein 24",109492458,109792306,"-",299.849,41,0.136735490196732,109579997,263.79785094,"bio05","temperature"
+"CQUJHB010765","protein_coding_gene",TRUE,"other","protein Aatf",109179012,109194361,"+",15.35,2,0.130293159609121,109179569,106.27299429,"bio05","temperature"
+"CQUJHB002060","protein_coding_gene",TRUE,"other","saccharopine dehydrogenase-like oxidoreductase, transcript variant X2",110713207,110722296,"-",9.09,1,0.11001100110011,110721959,91.8697977,"bio05","temperature"
+"CQUJHB014460","protein_coding_gene",TRUE,"other","uncharacterized LOC119767994",110166308,110180907,"-",14.6,1,0.0684931506849315,110178394,98.71736342,"bio07","temperature"
+"CQUJHB014665","protein_coding_gene",TRUE,"other","calexcitin-2",108590705,108655742,"-",65.038,3,0.0461268796703466,108600498,109.7753285,"bio05","temperature"
+"CQUJHB011056","protein_coding_gene",TRUE,"other","scavenger receptor class B member 1, transcript variant X1",108477129,108514244,"+",37.116,1,0.0269425584653519,108510250,74.58520886,"bio05","temperature"
+"CQUJHB002927","protein_coding_gene",TRUE,"other","uncharacterized LOC6051539, transcript variant X2",108517126,108544211,"-",27.086,0,0,NA,NA,NA,NA
+"CQUJHB017268","protein_coding_gene",TRUE,"other","PBAN-type neuropeptides",108818382,108819327,"-",0.946,0,0,NA,NA,NA,NA
+"CQUJHB008068","protein_coding_gene",TRUE,"other","uncharacterized LOC6037511",108820800,108821478,"-",0.679,0,0,NA,NA,NA,NA
+"CQUJHB012417","protein_coding_gene",TRUE,"other","nuclear pore complex protein Nup133",109159160,109163069,"+",3.91,0,0,NA,NA,NA,NA
+"CQUJHB017238","protein_coding_gene",TRUE,"other","uncharacterized LOC6037483",109194345,109196137,"-",1.793,0,0,NA,NA,NA,NA
+"CQUJHB017054","protein_coding_gene",TRUE,"other","TM2 domain-containing protein CG11103",109225134,109225790,"+",0.657,0,0,NA,NA,NA,NA
+"CQUJHB000799","protein_coding_gene",TRUE,"other","vesicle transport protein GOT1B, transcript variant X1",109288063,109290426,"+",2.364,0,0,NA,NA,NA,NA
+"CQUJHB011910","protein_coding_gene",TRUE,"other","carbonic anhydrase 7",109293267,109294050,"+",0.784,0,0,NA,NA,NA,NA
+"CQUJHB002740","protein_coding_gene",TRUE,"other","transmembrane protein 203",109365239,109365828,"-",0.59,0,0,NA,NA,NA,NA
+"CQUJHB014621","protein_coding_gene",TRUE,"other","ribonuclease P protein subunit p20",109365915,109366789,"-",0.875,0,0,NA,NA,NA,NA
+"CQUJHB008678","protein_coding_gene",TRUE,"other","trafficking protein particle complex subunit 6b",109368574,109369293,"-",0.72,0,0,NA,NA,NA,NA
+"CQUJHB005152.R7909","ncRNA",FALSE,"other","ADAM 17-like protease, transcript variant X1",109369378,109370706,"+",1.329,0,0,NA,NA,NA,NA
+"CQUJHB005152.R7910","ncRNA",FALSE,"other","ADAM 17-like protease, transcript variant X1",109369629,109372545,"+",2.917,0,0,NA,NA,NA,NA
+"CQUJHB009422","protein_coding_gene",TRUE,"other","tRNA (guanine(10)-N2)-methyltransferase homolog",109372745,109374598,"-",1.854,0,0,NA,NA,NA,NA
+"CQUJHB010829","protein_coding_gene",TRUE,"other","uncharacterized LOC119771252, transcript variant X1",109764923,109765532,"+",0.61,0,0,NA,NA,NA,NA
+"CQUJHB000311","protein_coding_gene",TRUE,"other","mitochondrial inner membrane protease subunit 1",110015826,110016736,"+",0.911,0,0,NA,NA,NA,NA
+"CQUJHB018419","protein_coding_gene",TRUE,"other","solute carrier family 12 member 1-like",110040601,110041492,"+",0.892,0,0,NA,NA,NA,NA
+"CQUJHB013651","protein_coding_gene",TRUE,"other","glycine-rich RNA-binding protein 10",110468860,110469645,"+",0.786,0,0,NA,NA,NA,NA
+"CQUJHB017393","protein_coding_gene",TRUE,"other","ubiquitin-like protein 4A",110471645,110472327,"-",0.683,0,0,NA,NA,NA,NA
+"CQUJHB018323","protein_coding_gene",TRUE,"other","prostatic acid phosphatase, transcript variant X3",110478443,110482371,"-",3.929,0,0,NA,NA,NA,NA
+"CQUJHB016259","protein_coding_gene",TRUE,"other","THO complex subunit 1",110489696,110492191,"+",2.496,0,0,NA,NA,NA,NA
+"CQUJHB016033","protein_coding_gene",TRUE,"other","dipeptidase 3",110492200,110494412,"-",2.213,0,0,NA,NA,NA,NA
+"CQUJHB014787","protein_coding_gene",TRUE,"other","uncharacterized LOC119765260, transcript variant X2",110494501,110495231,"-",0.731,0,0,NA,NA,NA,NA
+"CQUJHB016581","protein_coding_gene",TRUE,"other","UDP-N-acetylglucosamine transferase subunit ALG14 homolog",110693292,110695987,"-",2.696,0,0,NA,NA,NA,NA
+"CQUJHB016305","protein_coding_gene",TRUE,"other","cyclin-L2",110706158,110710404,"+",4.247,0,0,NA,NA,NA,NA
+"CQUJHB004604","protein_coding_gene",TRUE,"other","phenylalanine--tRNA ligase alpha subunit",110711355,110713106,"+",1.752,0,0,NA,NA,NA,NA
+"CQUJHB006948","protein_coding_gene",TRUE,"other","NAD(P)H-hydrate epimerase, transcript variant X1",110732959,110733872,"-",0.914,0,0,NA,NA,NA,NA
+"CQUJHB008780","protein_coding_gene",TRUE,"other","cytochrome c oxidase subunit NDUFA4",110751548,110752135,"+",0.588,0,0,NA,NA,NA,NA
+"CQUJHB005579","protein_coding_gene",TRUE,"other","ankyrin repeat domain-containing protein 17",110788781,110789598,"-",0.818,0,0,NA,NA,NA,NA
+"CQUJHB005401","protein_coding_gene",TRUE,"other","antigen 5 like allergen Cul n 1",110849098,110850060,"+",0.963,0,0,NA,NA,NA,NA
+"CQUJHB011408","protein_coding_gene",TRUE,"other","venom allergen 3 homolog",110852712,110855142,"-",2.431,0,0,NA,NA,NA,NA
+"CQUJHB015873","protein_coding_gene",TRUE,"other","venom allergen 3 homolog",110856146,110856383,"-",0.238,0,0,NA,NA,NA,NA

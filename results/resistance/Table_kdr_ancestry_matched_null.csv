@@ -1,0 +1,16 @@
+axis,null_set,n_null,focal_rho,null_median_abs,emp_P
+alpha_PIP,"XtXst +-10%, M_P +-0.05",451,-0.522,0.574,0.7235
+alpha_PIP,"XtXst +-25%, M_P +-0.10",3589,-0.522,0.561,0.6462
+alpha_PIP,"XtXst +-10%, freq unmatched",5237,-0.522,0.536,0.541
+alpha_MOL,"XtXst +-10%, M_P +-0.05",451,0.401,0.54,0.8783
+alpha_MOL,"XtXst +-25%, M_P +-0.10",3589,0.401,0.52,0.8577
+alpha_MOL,"XtXst +-10%, freq unmatched",5237,0.401,0.551,0.8312
+alpha_QUI,"XtXst +-10%, M_P +-0.05",451,0.353,0.583,0.969
+alpha_QUI,"XtXst +-25%, M_P +-0.10",3589,0.353,0.567,0.9435
+alpha_QUI,"XtXst +-10%, freq unmatched",5237,0.353,0.498,0.7759
+CYP6 depth (raw),"XtXst +-10%, M_P +-0.05",451,0.469,0.594,0.8872
+CYP6 depth (raw),"XtXst +-25%, M_P +-0.10",3589,0.469,0.582,0.8262
+CYP6 depth (raw),"XtXst +-10%, freq unmatched",5237,0.469,0.57,0.7342
+CYP6 depth (partial),"XtXst +-10%, M_P +-0.05",451,0.557,0.331,0.0531
+CYP6 depth (partial),"XtXst +-25%, M_P +-0.10",3589,0.557,0.322,0.0649
+CYP6 depth (partial),"XtXst +-10%, freq unmatched",5237,0.557,0.337,0.1023

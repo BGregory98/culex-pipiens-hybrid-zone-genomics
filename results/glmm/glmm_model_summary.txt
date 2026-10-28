@@ -1,0 +1,86 @@
+Callable-depth GLMM summaries
+Generated: 2026-10-02 13:05:44.583557
+Model family: nbinom2
+
+==================== M0 (genome-wide) ====================
+ Family: nbinom2  ( log )
+Formula:          total_depth ~ bio05_z + offset(log_gw) + (1 | gene_id)
+Data: model_data
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+  6276586   6276628  -3138289   6276578    329780 
+
+Random effects:
+
+Conditional model:
+ Groups  Name        Variance Std.Dev.
+ gene_id (Intercept) 0.798    0.8933  
+Number of obs: 329784, groups:  gene_id, 13741
+
+Dispersion parameter for nbinom2 family ():  121 
+
+Conditional model:
+              Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -1.188e+01  7.622e-03 -1558.2   <2e-16 ***
+bio05_z      4.509e-03  1.593e-04    28.3   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+==================== M1 (chr1 focal interaction) ====================
+ Family: nbinom2  ( log )
+Formula:          
+total_depth ~ bio05_z * is_focal_current + offset(log_gw) + (1 |      gene_id)
+Data: model_data
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+  6276469   6276533  -3138228   6276457    329778 
+
+Random effects:
+
+Conditional model:
+ Groups  Name        Variance Std.Dev.
+ gene_id (Intercept) 0.7979   0.8932  
+Number of obs: 329784, groups:  gene_id, 13741
+
+Dispersion parameter for nbinom2 family ():  121 
+
+Conditional model:
+                               Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                  -1.188e+01  7.623e-03 -1558.0   <2e-16 ***
+bio05_z                       4.472e-03  1.593e-04    28.1   <2e-16 ***
+is_focal_currentTRUE          4.679e-01  3.648e-01     1.3      0.2    
+bio05_z:is_focal_currentTRUE  8.159e-02  7.498e-03    10.9   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+==================== M1 (chr2 focal interaction) ====================
+ Family: nbinom2  ( log )
+Formula:          
+total_depth ~ bio05_z * is_focal_current + offset(log_gw) + (1 |      gene_id)
+Data: model_data
+
+      AIC       BIC    logLik -2*log(L)  df.resid 
+  6276589   6276653  -3138288   6276577    329778 
+
+Random effects:
+
+Conditional model:
+ Groups  Name        Variance Std.Dev.
+ gene_id (Intercept) 0.7979   0.8933  
+Number of obs: 329784, groups:  gene_id, 13741
+
+Dispersion parameter for nbinom2 family ():  121 
+
+Conditional model:
+                               Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                  -1.188e+01  7.622e-03 -1558.2   <2e-16 ***
+bio05_z                       4.509e-03  1.593e-04    28.3   <2e-16 ***
+is_focal_currentTRUE          7.456e-01  8.935e-01     0.8    0.404    
+bio05_z:is_focal_currentTRUE  9.728e-03  1.861e-02     0.5    0.601    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+==================== Focal interaction effects (M1 per locus) ====================
+ locus n_focal n_focal_genes    estimate   std_error    z_value      p_value
+  chr1     144             6 0.081588346 0.007498163 10.8811111 1.418235e-27
+  chr2      24             1 0.009727501 0.018608036  0.5227581 6.011426e-01

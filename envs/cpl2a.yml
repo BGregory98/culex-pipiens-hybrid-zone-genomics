@@ -1,0 +1,14 @@
+# Conda environment "cpl2a" on the cluster (ENV_CPL2A in cluster/config.sh).
+# Activated by 08_cpl2a_pip_mol/01_cpl2a_depth_mapq.sh and
+# 02_cpl2a_indels_sv.sh. Both scripts then try `module load samtools` and
+# `module load bcftools`; a module that loads comes first on PATH
+# (envs/hts_modules.yml).
+# Versions from `conda list -n cpl2a` on the cluster.
+name: cpl2a
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bcftools=1.9
+  - samtools=1.9
+  - htslib=1.9

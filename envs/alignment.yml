@@ -1,0 +1,17 @@
+# Read alignment and duplicate removal (cluster steps 1-2). Not a conda
+# environment on the cluster: the scripts call standalone builds whose paths
+# are in cluster/config.sh (BWA_MEM2, JAVA_HOME_DIR, PICARD_JAR,
+# SAMTOOLS_1_21_DIR). This file pins the same versions for a rerun.
+# Versions are from the @PG records of the BAMs (bwa-mem2 2.2.1 `mem -k 19 -M`,
+# samtools 1.21 `view`/`sort`, Picard MarkDuplicates 3.4.0 REMOVE_DUPLICATES=true).
+# Read trimming (Trimmomatic v0.33) was done by the sequencing facility and is
+# not part of this pipeline.
+name: culex-alignment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bwa-mem2=2.2.1
+  - picard=3.4.0
+  - openjdk=24        # unconfirmed as a conda build; the run used JDK 24.0.2
+  - samtools=1.21     # sort, index, flagstat in align_convert_sort.sh (BAM @PG)
