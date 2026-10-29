@@ -177,8 +177,7 @@ say("1 Mb windows: the %d most structured of %d lie within 2 Mb of a candidate l
 # Panel A: the BayPass candidate SNPs (R/03_baypass/01_baypass_outliers.R),
 # coloured by predictor category. Panel B: PC1 variance per 500 kb window from
 # the windowed PCA above, which uses no environmental data. The three locus
-# intervals are shaded in both; CpL2a is shaded at its 500 kb core in A, as in
-# the locus definitions, and as the 2.5 Mb block in B.
+# intervals are shaded in both, CpL2a at its 2.5 Mb block in each.
 FOCAL_FILE <- "results/baypass/v4/baypass_outliers_clustered.csv"
 OUT_FIG3   <- "figures/final/Figure_3.png"
 need_files(FOCAL_FILE)
@@ -189,7 +188,7 @@ focal <- focal %>% mutate(chr = chr_lab[paste0("chr", match(chromosome, chrom_le
 bands3 <- tribble(
   ~locus,  ~chr,           ~start,           ~end,
   "CpL1a", "Chromosome 1", CPL1A_START,      CPL1A_END,
-  "CpL2a", "Chromosome 2", CPL2A_CORE_START, CPL2A_CORE_END,
+  "CpL2a", "Chromosome 2", CPL2A_START,      CPL2A_END,
   "CpL3a", "Chromosome 3", CPL3A_START,      CPL3A_END)
 # common x extent per chromosome, so the two panels align
 extent <- bind_rows(res %>% transmute(chr, x = 0),
