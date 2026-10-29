@@ -4,8 +4,8 @@
 # Draws Figure 5 from the tables written by 01_per_pool_ancestry.R: per-pool
 # Delta against the locus's predictor at CpL1a (QUI panel, bio05), CpL2a
 # (non-QUI deficit panel, bio05) and CpL3a (MOL panel, percent impervious
-# surface), with bootstrap intervals, an OLS fit, and the Wilcoxon and
-# slope-permutation P values as panel subtitles.
+# surface), with bootstrap intervals and an OLS fit. The Wilcoxon and
+# slope-permutation P values are reported in the figure legend, not on the panels.
 #
 # Manuscript: Figure 5
 #
@@ -62,10 +62,6 @@ make_panel <- function(locus_key) {
   test_row <- tests[tests$locus == main_loci[locus_key] &
                     tests$panel == main_panels[locus_key], ]
 
-  subtitle <- sprintf('Wilcoxon p = %s    perm p (slope) = %s',
-                      formatC(test_row$wilcoxon_p,   format = 'g', digits = 2),
-                      formatC(test_row$perm_p_slope, format = 'g', digits = 2))
-
   ggplot(df, aes(x = env, y = delta)) +
     geom_hline(yintercept = 0, linetype = 'dashed', color = 'grey50') +
     geom_smooth(method = 'lm', formula = y ~ x, color = 'firebrick',
@@ -75,12 +71,10 @@ make_panel <- function(locus_key) {
     geom_point(size = 2.5, color = 'black') +
     scale_y_continuous(limits = c(-0.3, 0.3)) +
     labs(title = panel_titles[[locus_key]],
-         subtitle = subtitle,
          x = panel_env_labels[[locus_key]],
          y = expression(Delta[i]~~'='~~alpha[locus]-alpha[genome])) +
     theme_bw(base_size = 18) +
-    theme(plot.title    = element_text(face = 'bold'),
-          plot.subtitle = element_text(size = 9, color = 'grey30'))
+    theme(plot.title = element_text(face = 'bold'))
 }
 
 fig <- make_panel('chr1') + make_panel('chr2') + make_panel('chr3') +
